@@ -206,6 +206,7 @@ class GitHubPortfolio {
 
     this.exceptions = [
       'arfeo.games',
+      'arfeo.net',
       'mtx',
     ];
 
