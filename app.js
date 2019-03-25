@@ -766,6 +766,9 @@ window.onload = () => {
       'mtx',
       'stellard-gb',
     ],
+    counters: {
+      projects: true,
+    },
     limit: {
       starred: 15,
     },
