@@ -765,6 +765,7 @@ window.onload = () => {
       'arfeo.net',
       'mtx',
       'stellard-gb',
+      'localtunnel',
     ],
     counters: {
       projects: true,
