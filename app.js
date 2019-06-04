@@ -766,6 +766,7 @@ window.onload = () => {
       'mtx',
       'stellard-gb',
       'localtunnel',
+      'browser-sync',
     ],
     counters: {
       projects: true,
