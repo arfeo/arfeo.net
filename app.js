@@ -797,6 +797,8 @@ window.onload = () => {
       'stellard-gb',
       'localtunnel',
       'browser-sync',
+      'Term48',
+      'playbook-dev-tools',
     ],
     counters: {
       projects: true,
