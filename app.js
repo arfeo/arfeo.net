@@ -791,6 +791,7 @@ class GitHubPortfolio {
 window.onload = () => {
   new GitHubPortfolio('arfeo', {
     exceptions: [
+      'ant-design',
       'arfeo.games',
       'arfeo.net',
       'mtx',
