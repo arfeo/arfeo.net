@@ -799,6 +799,8 @@ window.onload = () => {
       'browser-sync',
       'Term48',
       'playbook-dev-tools',
+      'react-timeline-gantt',
+      'gantt-for-react',
     ],
     counters: {
       projects: true,
