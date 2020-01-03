@@ -219,8 +219,8 @@ class GitHubPortfolio {
         copyright: false,
       },
       limit: {
-        repos: 100,
-        starred: 100,
+        repos: 50,
+        starred: 50,
       },
     };
 
@@ -794,14 +794,13 @@ window.onload = () => {
       'ant-design',
       'arfeo.games',
       'arfeo.net',
-      'mtx',
-      'stellard-gb',
-      'localtunnel',
       'browser-sync',
-      'Term48',
+      'gantt-for-react',
+      'localtunnel',
+      'mtx',
       'playbook-dev-tools',
       'react-timeline-gantt',
-      'gantt-for-react',
+      'Term48',
     ],
     counters: {
       projects: true,
