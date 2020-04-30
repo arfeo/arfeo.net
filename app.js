@@ -795,6 +795,7 @@ window.onload = () => {
       'arfeo.games',
       'arfeo.net',
       'browser-sync',
+      'DefinitelyTyped',
       'gantt-for-react',
       'localtunnel',
       'mtx',
