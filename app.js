@@ -792,15 +792,11 @@ window.onload = () => {
   new GitHubPortfolio('arfeo', {
     exceptions: [
       'ant-design',
-      'arfeo.games',
       'arfeo.net',
       'browser-sync',
-      'DefinitelyTyped',
-      'gantt-for-react',
       'localtunnel',
       'mtx',
       'playbook-dev-tools',
-      'react-timeline-gantt',
       'Term48',
     ],
     counters: {
