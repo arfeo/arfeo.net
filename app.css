@@ -262,9 +262,15 @@ a:hover {
   }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1200px) and (max-width: 1599px) {
   .projects__info {
     width: calc(100% / 3 - 11px);
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  .projects__info {
+    width: calc(100% / 4 - 12px);
   }
 }
 
@@ -378,9 +384,15 @@ a:hover {
   }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1200px) and (max-width: 1599px) {
   .starred__info {
     width: calc(100% / 3 - 11px);
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  .projects__info {
+    width: calc(100% / 4 - 12px);
   }
 }
 
